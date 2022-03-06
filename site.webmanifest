@@ -1,0 +1,23 @@
+ {
+    "name": "PGplay513",
+    "short_name": "pgplay513",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgpMuFdIQlxoFi7DDTbyoVYHowndNeZKmIT-OhXv3lbaTZnqRYVXAVsjPxfWbShoes6RxKl2X7YSHBZOEiOon7vTiEZ4ukM7hWT3nI4O7rWYdJqiWB9z2vTxeJwBo7AqFuAYqL8tMo_IAmFjJfF1UxJOwZ9FWbSzgtUztD5Zs21kzgvT9pp4VvI0BPdLg=s180",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiDbm9q-5lxsS4qLpJTh5BGGdCrJ7igGqSJvXk84sP21OZosuS52BmuZ9gS6FGoXBRT7JFl5NvwW_Hqupd5ar0_FZiSkj6iOW1VkgA6eZBTK3rXyql6_oQP8PltfcOsiP3W2NUhM4_R6u-YD1n-UyE7F_rVFziQKPPhK0EHnR7Xo1BBsJrUxGOFTu118A=s512",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://pgplay513.blogspot.com/"
+}
